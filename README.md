@@ -16,7 +16,7 @@ I build **real-time, scalable web applications** using modern JavaScript framewo
 
 **What Excites Me:** Real-time systems, authentication architecture, AI/ML integration, and building products that users love
 
-**Beyond Code:** Exploring AI & Agentic AI trends 🤖, staying fit💪🏻, traveling ✈️, and experimenting in the kitchen 👨‍🍳
+**Beyond Code:** Exploring AI & Agentic AI trends 🤖, staying fit 💪🏻, traveling ✈️, and experimenting in the kitchen 👨‍🍳
 
 ---
 
@@ -49,7 +49,9 @@ Docker • Vercel • Fly.io • Git • Postman • CI/CD • Cloudinary • Pu
 **Data Analytics** _(Previous Experience)_
 
 ```
-Tableau • PowerBI • Alteryx • IBM Cognos • SQL
+Alteryx • Tableau • Microsoft Power BI • IBM Cognos Analytics • SalesForce Trailhead
+Google Cloud (Exploring & Preparing Data) • JMP Statistical Software • SQL
+Microsoft Office Suite (Excel, Access, Word, PowerPoint, Outlook)
 ```
 
 ---
@@ -136,9 +138,12 @@ graph LR
 
 ## 🎓 Education & Certifications
 
-🎓 **University of Florida** - BS Business Administration, Information Systems (2020)  
+🎓 **University of Florida, Warrington College of Business** - BSBA in Information Systems | Minor: Innovation (2020)  
 🏆 **Harvard CS50** - Introduction to Computer Science (2024)  
 💼 **Remote Work Experience** - FIS Global (2020)
+
+**Relevant Coursework:**  
+Business Data Analytics • Database Management • Business Systems Design & Application • Business Data Communications • Managerial Operations Analysis • Operations Strategy • Operations & Supply Chain Management • Business Statistics • Business Finance • Business Law • Management • Marketing • Financial & Managerial Accounting • Macroeconomics • Microeconomics • International Business
 
 ---
 
