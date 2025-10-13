@@ -12,11 +12,11 @@
 
 ## 🎯 What I Do
 
-I build **real-time, scalable web applications** using modern JavaScript frameworks. My skills span the full stack—from architecting databases to crafting pixel-perfect UIs—and I'm eager to apply them to solve real-world problems.
+I build **real-time, scalable web applications** using modern JavaScript frameworks. My skills span the full stack, from architecting databases to crafting pixel-perfect UIs, and I'm eager to apply them to solve real-world problems.
 
 **What Excites Me:** Real-time systems, authentication architecture, AI/ML integration, and building products that users love
 
-**Beyond Code:** Exploring AI & Agentic AI trends, staying fit, and experimenting in the kitchen 👨‍🍳
+**Beyond Code:** Exploring AI & Agentic AI trends 🤖, staying fit💪🏻, traveling ✈️, and experimenting in the kitchen 👨‍🍳
 
 ---
 
@@ -98,20 +98,21 @@ Tableau • PowerBI • Alteryx • IBM Cognos • SQL
 
 ```mermaid
 graph LR
-    A[UF Business Grad<br/>2020] --> B[Self-Taught<br/>Data Analytics]
-    B --> C[Mastered PowerBI<br/>Tableau & SQL]
-    C --> D[Pivoted to<br/>Software Engineering]
+    A[FIS Global Intern<br/>Summer 2020] --> B[UF Business Grad<br/>Dec 2020]
+    B --> C[Travel & Exploration<br/>2021-2023]
+    C --> D[Self-Learning<br/>Programming]
     D --> E[Harvard CS50<br/>2024]
     E --> F[Full-Stack<br/>Engineer Today]
 ```
 
 **From Zero to Production:**
 
-- 🎓 Started with zero coding knowledge in 2020
-- 📊 Mastered data analytics tools (PowerBI, Tableau, Alteryx)
-- 💻 Self-taught HTML, CSS, JavaScript, Python, React
-- 🎯 Completed Harvard CS50 (2024) for CS fundamentals
-- 🚀 Now building production-ready full-stack applications
+- 💼 Gained remote work experience at FIS Global during college (2020)
+- 🎓 Graduated from UF with BSBA in Information Systems (Dec 2020)
+- ✈️ Traveled across Europe & Southeast Asia while discovering the passion and love for programming (2021-2023)
+- 💻 Self-taught HTML, CSS, JavaScript, Python, React during exploration
+- 🎯 Completed Harvard CS50 (2024) to solidify CS fundamentals
+- 🚀 Now building production-ready full-stack applications with modern frameworks
 
 ---
 
