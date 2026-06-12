@@ -1,171 +1,68 @@
-# Hey, I'm Dayle Cortes 👋
+# Hi, I'm Dayle Cortes 👋
 
-### Full-Stack Software Engineer | Next.js • MERN • PERN Specialist
+**Full-Stack Software Engineer · PostgreSQL & Spatial Data · Python Data Science & ML**
 
-> 🚀 I build production-ready web applications that scale. From business analytics to full-stack development, my journey proves one thing: **anything unfamiliar becomes easy once you commit to learning it repeatedly.**
+I build production web applications and turn messy public data into maps, models, and decisions. Currently focused on spatial databases (PostgreSQL/PostGIS), GIS automation with Python, machine learning with scikit-learn and TensorFlow, and full-stack development with Next.js and the PERN stack.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-daylecortes.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daylecortes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayle_Cortes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayle-cortes)
-[![Email](https://img.shields.io/badge/Email-daylecortes1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daylecortes1997@gmail.com)
-
----
-
-## 🎯 What I Do
-
-I build **real-time, scalable web applications** using modern JavaScript frameworks. My skills span the full stack, from architecting databases to crafting pixel-perfect UIs, and I'm eager to apply them to solve real-world problems.
-
-**What Excites Me:** Real-time systems, authentication architecture, AI/ML integration, and building products that users love
-
-**Beyond Code:** Exploring AI & Agentic AI trends 🤖, staying fit 💪🏻, traveling ✈️, and experimenting in the kitchen 👨‍🍳
+[![Portfolio](https://img.shields.io/badge/Portfolio-daylecortes.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://daylecortes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dayle--cortes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayle-cortes)
+[![Email](https://img.shields.io/badge/Email-daylecortes1997%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daylecortes1997@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Work
 
-**Frontend**
+### 🏠 [Florida Housing Cost Burden Analysis](https://github.com/dexC166/fl_cost_burden_analysis_2026)
+**Python · Pandas · Plotly · Matplotlib · Seaborn · Choropleth Mapping**
 
-```
-React • Next.js 14 • TypeScript • JavaScript (ES6+) • Tailwind CSS
-```
+End-to-end analysis of housing affordability across all 67 Florida counties using UF Shimberg Center data. Cleaned 7 sheets of survey data, merged Census FIPS codes, and built interactive county-level choropleth maps.
 
-**Backend**
+- Found **3,045,514 cost-burdened households statewide**, with renters burdened at roughly 2x the rate of owners
+- Modeled wages vs. HUD Fair Market Rent: **10 of 12 everyday occupations** can't afford a 2-bedroom on one median wage
+- Interactive maps: [FL Statewide](https://dexc166.github.io/fl_cost_burden_analysis_2026/outputs/figures/florida_map.html) · [Manatee County area](https://dexc166.github.io/fl_cost_burden_analysis_2026/outputs/figures/home_map.html)
 
-```
-Node.js • Express.js • RESTful APIs • Prisma ORM • Mongoose • Python
-```
+### 💬 [Dex Real-Time Messenger](https://dex-messenger.vercel.app)
+**Next.js 14 · TypeScript · MongoDB · Pusher · NextAuth · Prisma**
 
-**Database & Auth**
-
-```
-PostgreSQL • MongoDB • NextAuth.js • OAuth 2.0 • JWT • bcrypt
-```
-
-**DevOps & Tools**
-
-```
-Docker • Vercel • Fly.io • Git • Postman • CI/CD • Cloudinary • Pusher
-```
-
-**Data Analytics** _(Previous Experience)_
-
-```
-Alteryx • Tableau • Microsoft Power BI • IBM Cognos Analytics • SalesForce Trailhead
-Google Cloud (Exploring & Preparing Data) • JMP Statistical Software • SQL
-Microsoft Office Suite (Excel, Access, Word, PowerPoint, Outlook)
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🗨️ [Dex Real-Time Messenger](https://dex-messenger.vercel.app)
-
-**Next.js 14 • TypeScript • MongoDB • Pusher • NextAuth**
-
-- ⚡ Real-time messaging with instant read receipts & presence indicators
-- 🔐 Multi-provider authentication (Google, GitHub, Credentials)
-- 👥 Group chat with file uploads via Cloudinary CDN
-- 📝 Comprehensive JSDoc documentation
-
-### 🎬 [Dex Real-Time Streaming](https://dex-streaming.vercel.app)
-
-**Next.js 13 • TypeScript • MongoDB • Prisma**
-
-- 🎯 Netflix-inspired architecture with multi-profile management
-- 🔒 Secure JWT sessions with NextAuth.js
-- ⚡ Server-side rendering for optimal performance
-- 🎨 SWR for server state + Zustand for local state
-
-### 📝 [Dex Note-Taking App](https://dex-note-taking-app.vercel.app)
-
-**MERN Stack • Redis Rate Limiting**
-
-- 🔥 Full CRUD with RESTful API architecture
-- 🛡️ Upstash Redis rate limiting for security
-- 📱 Mobile-first responsive design
-- 🚀 Production deployment: Fly.io + Vercel
+Full-featured chat platform with instant messaging, read receipts, and presence indicators. Handles real-time data synchronization with consistent state across distributed clients, plus multi-provider auth (Google, GitHub, credentials).
 
 ### 🛒 [Dex Product Store](https://dex-product-store.vercel.app)
+**PostgreSQL · Express · React · Node.js · Docker**
 
-**PERN Stack • Docker • Neon PostgreSQL**
+E-commerce product management system on the PERN stack. Relational schema designed for data integrity and ACID compliance, secured with Helmet, CORS, and ArcJet rate limiting. Dockerized backend on Fly.io, frontend on Vercel.
 
-- 💳 E-commerce product management system
-- 🔐 Security: Helmet, CORS, ArcJet rate-limiting
-- 🐳 Dockerized backend deployment
-- 🎨 Zustand state management
+### 🎬 [Dex Real-Time Streaming](https://dex-streaming.vercel.app)
+**Next.js · TypeScript · MongoDB · Prisma**
 
----
-
-## 📈 My Growth Journey
-
-```mermaid
-graph LR
-    A[FIS Global Intern<br/>Summer 2020] --> B[UF Business Grad<br/>Dec 2020]
-    B --> C[Travel & Exploration<br/>2021-2023]
-    C --> D[Self-Learning<br/>Programming]
-    D --> E[Harvard CS50<br/>2024]
-    E --> F[Full-Stack<br/>Engineer Today]
-```
-
-**From Zero to Production:**
-
-- 💼 Gained remote work experience at FIS Global during college (2020)
-- 🎓 Graduated from UF with BSBA in Information Systems (Dec 2020)
-- ✈️ Traveled across Europe & Southeast Asia while discovering the passion and love for programming (2021-2023)
-- 💻 Self-taught HTML, CSS, JavaScript, Python, React during exploration
-- 🎯 Completed Harvard CS50 (2024) to solidify CS fundamentals
-- 🚀 Now building production-ready full-stack applications with modern frameworks
+Netflix-style streaming platform with multi-profile management, server-side rendering, and JWT-secured sessions.
 
 ---
 
-## 💼 Why Hire Me?
+## Tech Stack
 
-✅ **Production-Ready Code:** Every project is deployed, documented, and built with best practices  
-✅ **Remote Work Expert:** Successfully working remotely since 2020 with proven productivity  
-✅ **Fast Learner:** Transitioned from business analytics to full-stack engineering through self-teaching  
-✅ **Growth Mindset:** Continuously adapting to new technologies and industry standards  
-✅ **Communication:** Fluent in English & Visayan/Tagalog, basic Spanish
-
----
-
-## 📊 GitHub Stats
-
-![Dayle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexC166&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexC166&layout=compact&theme=radical&hide_border=true)
+| | |
+|---|---|
+| **Languages** | Python, SQL, JavaScript (ES6+), TypeScript |
+| **Database & Spatial** | PostgreSQL, PostGIS, MongoDB, SQL Server, GIST indexing, query optimization, normalization |
+| **Data Science & ML** | Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn, Plotly, EDA, feature engineering, statistical modeling, recommender systems, NLP |
+| **GIS & Automation** | ArcPy, ArcGIS Arcade, ETL pipelines, web scraping, choropleth mapping, geoprocessing automation |
+| **Frontend** | React, Next.js, Tailwind CSS, Zustand, SWR |
+| **Backend** | Node.js, Express, RESTful APIs, WebSockets, Prisma, Mongoose |
+| **Auth & Security** | NextAuth.js, OAuth 2.0, JWT, bcrypt, rate limiting |
+| **DevOps & Tools** | Docker, Vercel, Fly.io, CI/CD, Git, Postman |
 
 ---
 
-## 🎓 Education & Certifications
+## Background
 
-🎓 **University of Florida, Warrington College of Business** - BSBA in Information Systems | Minor: Innovation (2020)  
-🏆 **Harvard CS50** - Introduction to Computer Science (2024)  
-💼 **Remote Work Experience** - FIS Global (2020)
-
-**Relevant Coursework:**  
-Business Data Analytics • Database Management • Business Systems Design & Application • Business Data Communications • Managerial Operations Analysis • Operations Strategy • Operations & Supply Chain Management • Business Statistics • Business Finance • Business Law • Management • Marketing • Financial & Managerial Accounting • Macroeconomics • Microeconomics • International Business
-
----
-
-## 🤝 Let's Connect!
-
-I'm actively seeking **remote full-time positions** where I can contribute to innovative projects and grow with a dynamic team. If you're looking for a developer who brings:
-
-- 🔥 Technical expertise in modern full-stack development
-- 🚀 Proven ability to ship production-ready applications
-- 📈 A growth mindset and passion for continuous learning
-- 🌍 Remote work experience and strong communication skills
-
-**Let's build something amazing together!**
-
-📧 **Email:** daylecortes1997@gmail.com  
-🌐 **Portfolio:** [daylecortes.com](https://daylecortes.com)  
-💼 **LinkedIn:** [linkedin.com/in/dayle-cortes](https://www.linkedin.com/in/dayle-cortes)
+- 🐊🎓 **University of Florida** - BSBA, Information Systems (Minor: Innovation)
+- 🏛️ **Harvard CS50** - Introduction to Computer Science (2024)
+- 📈 **Python for Data Science & Machine Learning Bootcamp** (Jose Portilla, Udemy) - NumPy, Pandas, scikit-learn, TensorFlow, NLP, recommender systems
+- 💼 **FIS Global** - Risk & Compliance Intern (remote): SQL analysis of large datasets, operational reporting, technical documentation
+- 🌎 Fluent in English and Visayan/Tagalog
+- 🤖 Outside of code: AI/ML, open source, fitness, and cooking
 
 ---
 
-<div align="center">
-  <i>"Anything unfamiliar becomes easy once you commit to learning it repeatedly."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=dexC166&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+**Open to full-time software engineering roles and SQL/Python-focused positions in data, GIS, and analytics (remote or Florida-based).**
+📫 [daylecortes1997@gmail.com](mailto:daylecortes1997@gmail.com) · [daylecortes.com](https://daylecortes.com)
