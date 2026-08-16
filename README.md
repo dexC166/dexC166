@@ -1,6 +1,6 @@
 # Hi, I'm Dayle Cortes 👋
 
-**IT Support Specialist · Data Analyst · Python, SQL/PostgreSQL & BI · Web Developer **
+**IT Support Specialist · Data Analyst · Python, SQL/PostgreSQL & BI · Web Developer**
 
 I troubleshoot software and environment issues end-to-end, write clear documentation for non-technical users, and turn messy public data into maps, tables, and decisions. Currently completing **CompTIA A+** (expected October 2026), with Network+ and Security+ planned for 2027.
 
